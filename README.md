@@ -1,2 +1,2 @@
 # Mapping-Heatwaves-Using-Satellite-Data
-Urban Heat Island (UHI) mapping project using Landsat 8 Land Surface Temperature (LST) and Dynamic World urban classification in Google Earth Engine to detect and classify urban heat intensity
+This repository contains a Google Earth Engine script for detecting and mapping Urban Heat Islands (UHI) using Landsat 8 Level-2 thermal band data and Dynamic World land cover. The workflow extracts urban pixels, computes Land Surface Temperature (LST), derives a UHI index relative to mean city temperature, classifies heat intensity into five levels, visualizes the results, and exports the UHI map for further analysis in GIS tools
